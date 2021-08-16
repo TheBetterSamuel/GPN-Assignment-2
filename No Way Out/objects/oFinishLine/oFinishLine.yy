@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "finishLine",
+    "path": "sprites/finishLine/finishLine.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

@@ -1,2 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+//Insert where to go to after colliding with the finishline
+
+SlideTransition(TRANSITION_TYPE.GOTO,mainBackground)
