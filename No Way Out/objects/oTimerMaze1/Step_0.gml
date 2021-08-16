@@ -4,5 +4,6 @@ if (timeLimit >= 0){
 
 }
 else{
-	SlideTransition(TRANSITION_TYPE.GOTO, mainBackground);
+	audio_sound_gain(puzzleMazeMusic,0,1000);
+	SlideTransition(TRANSITION_TYPE.GOTO, deathDialogueRoom1);
 }

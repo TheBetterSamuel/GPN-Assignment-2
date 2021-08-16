@@ -27,8 +27,4 @@ if(keyboard_check_pressed(vk_enter))
 	{
 		SlideTransition(TRANSITION_TYPE.GOTO,MazeRoom3);
 	}
-	else
-	{
-		SlideTransition(TRANSITION_TYPE.GOTO,mainBackground);
-	}
 }
