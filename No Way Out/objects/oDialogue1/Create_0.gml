@@ -2,7 +2,7 @@
 
 audio_play_sound(dialogueBgm,1000,true);
 audio_sound_gain(dialogueBgm,0.01,0);
-audio_sound_gain(dialogueBgm,1,1);
+audio_sound_gain(dialogueBgm,0.5,1);
 
 dialogues[0] = "Day ??? Year ??? \nInside Daedalus's Labyrinth";
 dialogues[1] = "Been here for days, I'm not even sure if I can make it out alive.";
