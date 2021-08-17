@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFinishLine",
+  "name": "oFinishLine2",
   "tags": [],
   "resourceType": "GMObject",
 }

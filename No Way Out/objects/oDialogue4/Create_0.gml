@@ -1,6 +1,6 @@
 audio_play_sound(dialogueBgm,1000,true);
 audio_sound_gain(dialogueBgm,0.01,0);
-audio_sound_gain(dialogueBgm,1,1);
+audio_sound_gain(dialogueBgm,0.5,1);
 
 dialogues[0] = "Day 4. Damn, I really can't tell what is night and day, this sucks man.";
 dialogues[1] = "It's so dark, the string is barerly visible, and the floor is near pitch black.";

@@ -1,6 +1,6 @@
 audio_play_sound(dialogueBgm,1000,true);
 audio_sound_gain(dialogueBgm,0.01,0);
-audio_sound_gain(dialogueBgm,1,1);
+audio_sound_gain(dialogueBgm,0.5,1);
 
 dialogues[0] = "Day 3, that was really a close call.";
 dialogues[1] = "If I did not read up and study Greek Mythology, who knows what would have happened to me.";

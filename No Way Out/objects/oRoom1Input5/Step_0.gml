@@ -25,6 +25,7 @@ if(keyboard_check_pressed(vk_enter))
 	//Validate the answer
 	if(pw == pass)
 	{
-		SlideTransition(TRANSITION_TYPE.GOTO,MazeRoom3);
+		audio_sound_gain(puzzleMazeMusic,0,1000);
+		SlideTransition(TRANSITION_TYPE.GOTO,dialogueRoom3);
 	}
 }
