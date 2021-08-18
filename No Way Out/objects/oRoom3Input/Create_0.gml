@@ -2,6 +2,7 @@
 
 delete_timer = 2;
 pw = "";
+keyboard_string = "";
 
 lineHeight = font_get_size(bloodyFont);
 
