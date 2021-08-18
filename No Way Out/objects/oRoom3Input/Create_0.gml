@@ -12,4 +12,4 @@ line4 = "Deere vixenish whites"
 
 reminderText1 = "Press enter once you've enetered yout answer.";
 
-pass = "I wish he never existed";
+pass = "i wish he never existed";
