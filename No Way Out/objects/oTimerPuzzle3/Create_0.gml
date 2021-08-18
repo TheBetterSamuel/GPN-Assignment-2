@@ -1,5 +1,5 @@
-timeLimit = 60;
-timeGiven = 60;
+timeLimit = 120;
+timeGiven = 120;
 
 interval = 1 / room_speed;
 
