@@ -1,5 +1,10 @@
 /// @description Initialise intro
 
+audio_sound_gain(dialogueBgm,0,1000);
+audio_play_sound(menuMusic,1000,true);
+audio_sound_gain(menuMusic,0.01,0);
+audio_sound_gain(menuMusic,0.5,1);
+
 //set timer
 timeElapsed = 0;
 

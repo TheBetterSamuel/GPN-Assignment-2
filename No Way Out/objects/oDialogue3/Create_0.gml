@@ -4,10 +4,10 @@ audio_sound_gain(dialogueBgm,0.5,1);
 
 dialogues[0] = "Day 3, that was really a close call.";
 dialogues[1] = "If I did not read up and study Greek Mythology, who knows what would have happened to me.";
-dialogues[2] = "But at lwast I made it through, and the string is still here, a good sign of progress,";
-dialogues[3] = "I still have hope that I would get out, but this situation still feels a little scary to me.";
+dialogues[2] = "But at lwast I made it through, and the string is still here, a good sign of progress.";
+dialogues[3] = "I still hope that I will get out, but this situation still feels a little scary to me.";
 dialogues[4] = "The thought of being trapped in this labyrinth, never seeing the light of day again...";
-dialogues[5] = "Shit i[ man, now's not the time to whine about this.";
+dialogues[5] = "Damn it man, now's not the time to whine about this.";
 dialogues[6] = "Gotta keep going, this is literally the first room.";
 dialogues[7] = "Now, let's keep on going, never know what's there until you're there.";
 

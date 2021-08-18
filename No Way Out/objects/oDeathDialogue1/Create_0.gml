@@ -7,7 +7,7 @@ dialogues[1] = "Why do I hear parts moving?";
 dialogues[2] = "I better get out before its too late";
 dialogues[3] = "Damn it! The dorrs won't open!";
 dialogues[4] = "Help! Somebody! Anyone out there ?!";
-dialogues[5] = "As I yelled for help the floor beneath me started to open. I felt a huge wave of heat surge through my body.";
+dialogues[5] = "As I yelled for help, the floor beneath me started to open. I felt a huge wave of heat surge through my body.";
 dialogues[6] = "The floor glowed red, as the crackling sound of fire got louder.";
 dialogues[7] = "My cries for help were drowned by the sounds of pain and agony, the yells for help and the sound of burning things as I fell through the floor into the unkown world below...";
 
