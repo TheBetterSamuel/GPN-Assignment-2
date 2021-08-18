@@ -14,3 +14,8 @@ if(audio_sound_get_gain(puzzleMazeMusic) == 0)
 {
 	audio_stop_sound(puzzleMazeMusic);
 }
+
+if(audio_sound_get_gain(deathBgm) == 0)
+{
+	audio_stop_sound(deathBgm);
+}

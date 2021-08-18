@@ -26,6 +26,6 @@ if(keyboard_check_pressed(vk_enter))
 	if(pw == pass)
 	{
 		audio_sound_gain(puzzleMazeMusic,0,1000);
-		SlideTransition(TRANSITION_TYPE.GOTO,dialogueRoom3);
+		SlideTransition(TRANSITION_TYPE.GOTO,TBC);
 	}
 }
