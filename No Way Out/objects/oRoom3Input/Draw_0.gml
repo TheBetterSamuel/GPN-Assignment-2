@@ -10,4 +10,4 @@ draw_text(x,y + (2 * lineHeight),line3);
 draw_text(x,y + (3 * lineHeight),line4);
 draw_text(x,y + (4 * lineHeight),pw);
 
-draw_text_ext(x,y + (6 * lineHeight),reminderText1,lineHeight,maxW);
+draw_text(x,y + (6 * lineHeight),reminderText1);

@@ -6,5 +6,5 @@ if(timeElapsed < 10)
 }
 else
 {
-	SlideTransition(TRANSITION_TYPE.GOTO, mainBackground);
+	SlideTransition(TRANSITION_TYPE.GOTO, MazeRoom3);
 }

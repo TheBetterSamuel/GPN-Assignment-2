@@ -4,7 +4,7 @@ delete_timer = 2;
 pw = "";
 keyboard_string = "";
 
-pass = "Minotaur";
+pass = "minotaur";
 
 lineHeight = font_get_size(bloodyFont);
 

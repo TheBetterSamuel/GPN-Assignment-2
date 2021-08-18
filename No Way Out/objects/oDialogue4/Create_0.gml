@@ -1,3 +1,5 @@
+game_set_speed(60, gamespeed_fps);
+
 audio_play_sound(dialogueBgm,1000,true);
 audio_sound_gain(dialogueBgm,0.01,0);
 audio_sound_gain(dialogueBgm,0.5,1);

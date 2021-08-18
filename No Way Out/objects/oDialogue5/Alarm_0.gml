@@ -9,6 +9,9 @@ if (i < dia)
 			txt = dialogues[i];
 			alarm[1] = room_speed * 0.5;
 		}
+		else if(keyboard_check_pressed(vk_enter)){
+			SlideTransition(TRANSITION_TYPE.GOTO, TBC);
+		}
 		else
 		{
 			txt =  string(string_copy(dialogues[i], 1, index))
@@ -31,8 +34,7 @@ if (i < dia)
 }
 else
 {
-	audio_sound_gain(dialogueBgm,0,1000);
-	SlideTransition(TRANSITION_TYPE.GOTO, mazeIntro3);
+	SlideTransition(TRANSITION_TYPE.GOTO, TBC);
 }
 
 

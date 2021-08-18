@@ -9,6 +9,10 @@ if (i < dia)
 			txt = dialogues[i];
 			alarm[1] = room_speed * 0.5;
 		}
+		else if(keyboard_check_pressed(vk_enter)){
+			audio_sound_gain(dialogueBgm,0,1000);
+			SlideTransition(TRANSITION_TYPE.GOTO, mazeIntro2);
+		}
 		else
 		{
 			txt =  string(string_copy(dialogues[i], 1, index))

@@ -1,6 +1,6 @@
 audio_play_sound(deathBgm,1000,true);
 audio_sound_gain(deathBgm,0.01,0);
-audio_sound_gain(deathBgm,1,1);
+audio_sound_gain(deathBgm,0.5,1);
 
 dialogues[0] = "What is going on?";
 dialogues[1] = "Why do I hear parts moving?";

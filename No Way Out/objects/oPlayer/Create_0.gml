@@ -2,4 +2,4 @@
 wlkSpd = 1.5;
 
 //collusion detection leeway
-collusionSpd = wlkSpd + 2;
+collusionSpd = wlkSpd + 6;

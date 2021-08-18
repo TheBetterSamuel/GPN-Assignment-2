@@ -9,6 +9,9 @@ if (i < dia)
 			txt = dialogues[i];
 			alarm[1] = room_speed * 0.5;
 		}
+		else if(keyboard_check_pressed(vk_enter)){
+			SlideTransition(TRANSITION_TYPE.GOTO, deathScreen);
+		}
 		else
 		{
 			txt =  string(string_copy(dialogues[i], 1, index))

@@ -25,7 +25,7 @@ if(menu_selected != -1)
 		case 2: default:
 		{
 			audio_sound_gain(menuMusic,0,1000);
-			SlideTransition(TRANSITION_TYPE.GOTO,dialogueRoom1);
+			SlideTransition(TRANSITION_TYPE.GOTO,puzzleIntro3);
 			break;
 		}
 		case 1: SlideTransition(TRANSITION_TYPE.GOTO,Credits); break;
